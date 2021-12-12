@@ -1,8 +1,8 @@
 // array of quotes
 const quotes = [
-    "The purpose of our lives is to be happy.",
-    "Get busy living or get busy dying.",
-    "You only live once, but if you do it right, once is enough."
+    "“The purpose of our lives is to be happy.” - Dalai Lama",
+    "“Get busy living or get busy dying.” - John Lennon",
+    "“You only live once, but if you do it right, once is enough.” - Stephen King"
 ]
 
 const btnGen = document.querySelector(".generator");

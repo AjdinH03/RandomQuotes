@@ -2,4 +2,4 @@
 
 ## Subheader
 
-My RandomQuotes project
+My Random Quotes project
